@@ -1,8 +1,0 @@
-def info():
-    main():
-    os.system('clear')
-    print('name your')
-    time.path(1.0)
-    print('fuckyou')
-end()
-main()
